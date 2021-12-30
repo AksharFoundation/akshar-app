@@ -140,7 +140,7 @@
         context: 'Title for learners matchup section',
       },
       searchboxPlaceholderText: {
-        message: 'Search for mentee or mentor..',
+        message: 'Find students..',
         context: 'Search box placeholder',
       },
       searchNoResultText: {
